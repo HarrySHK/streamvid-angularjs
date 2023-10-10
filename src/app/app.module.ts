@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './My_Components/navbar/navbar.component';
 import { SliderComponent } from './My_Components/slider/slider.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
